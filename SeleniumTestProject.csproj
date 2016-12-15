@@ -65,8 +65,8 @@
     </Otherwise>
   </Choose>
   <ItemGroup>
+    <Compile Include="RegistrationTest.cs" />
     <Compile Include="LabelTest.cs" />
-    <Compile Include="DuckTest.cs" />
     <Compile Include="MenuTest.cs" />
     <Compile Include="SortTestGeoZones.cs" />
     <Compile Include="SortTestCountries.cs" />
