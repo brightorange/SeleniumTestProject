@@ -65,10 +65,12 @@
     </Otherwise>
   </Choose>
   <ItemGroup>
+    <Compile Include="CartTest.cs" />
     <Compile Include="RegistrationTest.cs" />
     <Compile Include="LabelTest.cs" />
     <Compile Include="MenuTest.cs" />
     <Compile Include="NewProduct.cs" />
+    <Compile Include="NewWindows.cs" />
     <Compile Include="SortTestGeoZones.cs" />
     <Compile Include="SortTestCountries.cs" />
     <Compile Include="UnitTest1.cs" />
